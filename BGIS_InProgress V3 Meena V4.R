@@ -1,5 +1,4 @@
-### Project BGIS ###
-### Team Apache  ###
+### Project ###
 
 #Libraries and load data: "Data_Cleaned_Topics.csv" ----
 #install.packages("glmnet")
